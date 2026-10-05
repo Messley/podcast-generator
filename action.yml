@@ -1,7 +1,7 @@
 name: 'Podcase Generator'
 author: 'Ray Villalobos'
 description: 'Generates a feed for a podcast from a YAML file'
-runes: 
+runs: 
   using: 'docker'
   image: 'Dockerfile'
 branding: 
